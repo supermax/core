@@ -1,1 +1,1 @@
-# core
+# SuperMaxim - Unity Core Library
